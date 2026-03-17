@@ -1,5 +1,6 @@
 checkpoints/
 results/
+backup/
 .idea/
 *.tar.gz
 *.zip
